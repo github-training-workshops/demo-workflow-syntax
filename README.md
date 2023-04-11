@@ -2,7 +2,7 @@
 
 Demo repository for basic GitHub Actions workflow syntax.
 
-:exclamation: **This is a template repository**
+:exclamation: **This is a template repository** :)
   - Please click ***Use this template*** to clone the repo into your user account or a different organization that you own, and run the demo from there
   - If you're unable to use your personal account or a different organization, feel free to use this one. Just make sure to complete the **Cleanup** steps afterwards :house_with_garden:
 
